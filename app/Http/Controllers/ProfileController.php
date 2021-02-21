@@ -10,10 +10,10 @@ class ProfileController extends Controller
     {
         return view('profile')
         ->with([
-            "full_name" => "samark chaisanguan",
-            "email"     => "samark.work@gmail.com",
-            "phone"     => "02-555-5244",
-            "mobile"    => "0996217524"
+            "full_name" => "Nitit Duangsanglek",
+            "email"     => "jane_spr@hotmail.com",
+            "phone"     => "-",
+            "mobile"    => "086-XXXXXXX"
         ]);
     }
 }

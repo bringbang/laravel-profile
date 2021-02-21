@@ -8,12 +8,12 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link href="//netdna.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css" rel="stylesheet">
     <style type="text/css">
-    	body{
+    body{
     margin-top:20px;
     color: #1a202c;
     text-align: left;
     background-color: #e2e8f0;    
-}
+    }
 .main-body {
     padding: 15px;
 }
@@ -83,10 +83,10 @@
               <div class="card">
                 <div class="card-body">
                   <div class="d-flex flex-column align-items-center text-center">
-                    <img src="images/avatar7.png" alt="Admin" class="rounded-circle" width="150">
+                    <img src="images/Job.jpg" alt="Admin" class="rounded-circle" width="150">
                     <div class="mt-3">
-                      <h4>Max</h4>
-                      <p class="text-secondary mb-1">Full Stack Developer</p>
+                      <h4>Job</h4>
+                      <p class="text-secondary mb-1">Information Technology</p>
                       <p class="text-muted font-size-sm">Bay Area, San Francisco, CA</p>
                       <button class="btn btn-primary">Follow</button>
                       <button class="btn btn-outline-primary">Message</button>
